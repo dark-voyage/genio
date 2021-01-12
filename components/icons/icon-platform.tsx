@@ -19,7 +19,10 @@ type Props = { color: string; height?: number | string };
 
 export default function PlatformLogo({ color, height = 20 }: Props) {
   return (
-    <div className="genemator-title">
+    <div className="genemator-title" style={{
+      height: height,
+      color: color
+    }}>
       Genemator
     </div>
   );
