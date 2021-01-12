@@ -1,10 +1,10 @@
 {
-  "name": "virtual-event-starter-kit",
-  "description": "Starter kit for your virtual event.",
+  "name": "genio",
+  "description": "Genemator's Events.",
   "private": true,
-  "repository": "vercel/virtual-event-starter-kit",
-  "author": "Vercel Inc.",
-  "homepage": "https://demo.vercel.events",
+  "repository": "genemators/genio",
+  "author": "Genemator's",
+  "homepage": "https://live.genemator.me",
   "license": "Apache-2.0",
   "engines": {
     "node": ">=12.x"
