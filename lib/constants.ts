@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-export const SITE_URL = 'https://live.genemator.me';
+export const SITE_URL = 'https://live.genemator.uz';
 export const SITE_ORIGIN = process.env.NEXT_PUBLIC_SITE_ORIGIN || new URL(SITE_URL).origin;
 export const TWITTER_USER_NAME = 'genemator';
 export const BRAND_NAME = 'Genemator\'s';
